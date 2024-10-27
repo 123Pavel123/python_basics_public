@@ -32,3 +32,57 @@ moje_kocka = moje_kocka
 
 
 # 2. lekce dump
+# from package1 import kocka as kocka1
+# from package2 import kocka as kocka2
+
+import package1
+import package2
+
+package1.kocka()
+package2.kocka()
+
+########
+
+from package1 import *
+
+kocka()
+#
+def kocka():
+    return
+
+####################
+import math
+
+def greet(name, surname):
+    greet_type = "Ahoj"  # "nazdar"
+    print(greet_type, name)
+
+def f2():
+    print("hello")
+
+def main():
+    name = "Radim"
+    surname = "Dolezal"
+    greet(name)
+    f2()
+
+
+if __name__ == "__main__":
+    print("Zacatek programu, spoustim main()")
+    main()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
