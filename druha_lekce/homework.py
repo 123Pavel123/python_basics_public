@@ -12,5 +12,7 @@
 ################# Domaci ukol #################
 # Najdi si flowchart, ktery by slo prevest do podoby kodu.
 # Naprogramuj funkci, ktera bude simulovat rozhodovani podle tohoto flowchartu
-# vstupy budou zadavany uzivatelem. Nahraj funkci na github do sdileneho souboru
-# a do dokumentace se podepis, at se v tom vyzname.
+# vstupy budou zadavany uzivatelem. Nahraj funkci na github do slozky druha_lekce
+# jako soubor homework_jmeno.py
+# podepis se i do dokumentace, at se v tom vyzname a pokud delas flowchart podle
+# obrazku z internetu, pridej link.
