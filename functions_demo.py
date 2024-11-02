@@ -9,6 +9,7 @@ def greet(name, surname="", age=""):
 def f2():
     print("hello")
 
+
 def check_small_letter(character):
     ord_char = ord(character)
     if ord_char >= 97 and ord_char <= 122:
