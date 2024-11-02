@@ -10,7 +10,7 @@
 # |    Name    |    Age     | Occupation | Binary age |
 # -----------------------------------------------------
 # |    John    |    22.00   |  Student   |   10110    |
-# |    Jane    |    48.00   |   Baker    |   10110    |
+# |    Jane    |    48.00   |   Baker    |   110000   |
 
 # Pomoci definovanych promennych vytvorte tabulku, ktera vypada jako vystup vyse.
 # Vytisknete tabulku na obrazovku a vystup si overte spustenim programu.
