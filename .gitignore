@@ -2,6 +2,7 @@
 *original*
 poznamky
 *.xopp
+**/__pycache__/*
 
 # prozatim
 playground.ipynb
